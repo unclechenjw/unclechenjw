@@ -1,10 +1,14 @@
-# 👋 Hi, I'm Kevin
+## 👋 Hi, I'm Kevin, it's awesome to see you here!
 
-a full stack engineer, freelancer, and aspiring digital nomad.
+I specialize in building scalable and efficient solutions for a wide range of projects. Whether it's mobile apps, mini-programs, IoT systems, or AI applications, I’m here to bring your ideas to life.
 
-### 📝Languages and Tools:  
+### 🛠️ Development Expertise
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="WeChat" src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" />
+  <img alt="Artificial Intelligence" src="https://img.shields.io/badge/-AI-007ACC?style=flat-square&logo=ai&logoColor=white" />
   <img alt="Uniapp" src="https://img.shields.io/badge/-Uniapp-4A4A4A?style=flat-square&logo=uniapp&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-8DD6F9?style=flat-square&logo=html5&logoColor=white" /> 
