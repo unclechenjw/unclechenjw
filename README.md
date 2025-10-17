@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Kevin, it's awesome to see you here!
 
 💻 My team specialize in building scalable and efficient solutions for a wide range of projects.   
-🚀 Whether it's 📱 mobile apps, 🧩 mini-programs, 🌐 IoT systems, or 🤖 AI applications, I’m here to bring your ideas to life.
+🚀 Whether it's 🤖 AI applications, 📱 mobile apps, 🧩 mini-programs, or 🌐 IoT systems, I’m here to bring your ideas to life.
 
 ### 🛠️ Development Expertise
 <p>
